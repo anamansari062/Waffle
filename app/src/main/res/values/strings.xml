@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Waffle</string>
+    <string name="id_url" translatable="false">https://solanamobile.com</string>
+    <string name="id_favicon" translatable="false">favicon.ico</string>
+</resources>
