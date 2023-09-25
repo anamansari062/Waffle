@@ -1,7 +1,7 @@
 # Waffle App
 Waffle Application let's user create a waffle account on Solana. It uses Mobile Wallet Adapter and SolanaKT.
 
-> Switch to branch `wallet-implementation` to get wallet connection boilerplate code. 
+> Switch to branch `mwa-implementation` to get wallet connection boilerplate code. 
 
 ## Screenshots 📷
 <table>
